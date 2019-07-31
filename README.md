@@ -2,6 +2,8 @@
 
 pytorch based Artifact Reduction CNN. This CNN is based on Chao Dong, [et al. “Compression Artifacts Reduction by a Deep Convolutional Network.” ICCV 2015 and Pavel Svoboda](https://arxiv.org/pdf/1504.06993.pdf) and [et al. “Compression Artifacts Removal Using Convolutional Neural Networks.” ICCV 2017 ](https://arxiv.org/pdf/1605.00366.pdf) 
 
+IVC_lab final optimization project in 18/19SS, Technische Universitaet Muenchen. 
+
 ## Usage
 
 open ARCNN.ipynb with Jupyter notebook, and follow the instructions.
